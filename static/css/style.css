@@ -1,0 +1,18 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Alfa+Slab+One&display=swap');
+
+
+body {
+    background-color: rgb(211, 215, 225);
+    font-weight: 500;
+    color: #000000;
+}
+.jumbotron {
+color: rgb(147, 23, 23);
+background-image: linear-gradient(to bottom, rgba(210,210,210,0.8) 0%,rgba(255,255,255, 0.8) 100%) , url("../images/microbes.jpg");
+background-size: 100% 100%;
+text-align: center;
+font-family: 'Alfa Slab One';
+font-weight: 100;
+font-size: 50;
+}

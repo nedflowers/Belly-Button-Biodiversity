@@ -96,7 +96,7 @@ function buildCharts(sample) {
       yaxis: {
         tickmode: "array",
         tickvals: [0,1,2,3,4,5,6,7,8,9],
-        ticktext: yticks
+        ticktext: yticks,
       },
       annotations: [{
         xref: 'paper',
